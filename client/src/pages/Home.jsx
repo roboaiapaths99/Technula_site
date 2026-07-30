@@ -271,7 +271,7 @@ export default function Home() {
                 <span className="label" style={{ color: 'var(--accent)', display: 'block', marginBottom: '0.5rem' }}>EDUCATION DIVISION</span>
                 <h2>Robotics & AI Learning for <span className="accent-text">School Students</span></h2>
                 <p style={{ color: 'var(--text-dim)', margin: '0.85rem 0 1.25rem', lineHeight: 1.6, fontSize: '0.95rem' }}>
-                  We set up complete STEM Robotics labs and supply 11 exclusive hardware kits to premier schools like <strong>London International School</strong>, <strong>St. Mary's Academy</strong>, and <strong>London Pre School (Sec 116, Noida)</strong>. Hands-on coding and robotics for Nursery to 8th class.
+                  We set up complete STEM Robotics labs and supply 11 exclusive hardware kits to premier partner schools like <strong>London Pre School (Sec 116, Noida)</strong>. Hands-on coding and robotics for Nursery to 8th class.
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
                   <Link to="/academy/kits" className="btn btn-accent btn-sm">Shop Robotics Kits <i className="fas fa-boxes"></i></Link>

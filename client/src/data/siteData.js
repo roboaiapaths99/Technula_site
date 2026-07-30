@@ -87,20 +87,6 @@ export const portfolioData = [
     image: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800'
   },
   {
-    id: 4,
-    title: 'London International School',
-    category: 'STEM Robotics Lab',
-    description: 'Established dedicated STEM Robotics & AI Lab powered by Technula kits and progressive curriculum for classes 1st to 8th.',
-    image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800'
-  },
-  {
-    id: 5,
-    title: "St. Mary's Academy",
-    category: 'Robotics Kits & Training',
-    description: 'Curriculum partnership supplying 11 STEM hardware kit sets and trainer development programs.',
-    image: 'https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&q=80&w=800'
-  },
-  {
     id: 6,
     title: 'London Pre School, Sec 116, Noida',
     category: 'Robotics & STEM Courses',
