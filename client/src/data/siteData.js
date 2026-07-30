@@ -167,7 +167,7 @@ export const faqData = {
   academy: [
     { q: 'What age group is Technula STEM Academy designed for?', a: 'Our robotics, AI, and coding programs are designed for students from Nursery to 8th standard with age-appropriate kits.' },
     { q: 'Are the robotics kits delivered directly to homes or schools?', a: 'Both! We ship our 11 STEM hardware kits to individual parents and also set up complete robotics labs for schools like London International School.' },
-    { q: 'Who leads the education team?', a: 'Founded by Rashmi Kansal (15+ years experience in CS, STEM, and Psychology. M.Ed, M.Sc) and directed by Ankit Gupta.' }
+    { q: 'Who leads the education team?', a: 'Led by Rashmi Kansal (15+ years experience in CS, STEM, and Psychology. M.Ed, M.Sc) and directed by Ankit Gupta.' }
   ]
 };
 
@@ -277,7 +277,7 @@ export const blogData = [
     excerpt: 'Discover how hands-on robotics kits build logical reasoning, coding skills, and scientific curiosity in school students.', 
     category: 'STEM Education', 
     date: '2026-03-18',
-    author: 'Rashmi Kansal (Founder)',
+    author: 'Rashmi Kansal (Lead Educator)',
     content: `
       <h2>Building Future Innovators Through Practical Kits</h2>
       <p>Robotics is not just about assembling machines — it is a practical medium for mastering physics, logic, mathematics, and computer science. By assembling circuit components, programming sensors, and testing motor movements, students develop computational thinking.</p>
@@ -292,7 +292,7 @@ export const blogData = [
     excerpt: 'Everything school leaders and parents need to know about establishing school AI labs and introducing hands-on hardware kits.', 
     category: 'Education', 
     date: '2026-03-25',
-    author: 'Rashmi Kansal (Founder)',
+    author: 'Rashmi Kansal (Lead Educator)',
     content: `
       <h2>Establishing School AI & Robotics Labs</h2>
       <p>Integrating STEM labs into K-12 school curriculum empowers students to apply scientific concepts practically. Technula provides complete school lab setups including 11 hardware kits, lesson plans, and teacher training.</p>
@@ -331,7 +331,7 @@ export const blogData = [
     excerpt: 'Explore how hands-on STEM learning develops problem-solving skills, spatial awareness, and analytical thinking.', 
     category: 'STEM Education', 
     date: '2026-05-01',
-    author: 'Rashmi Kansal (Founder)',
+    author: 'Rashmi Kansal (Lead Educator)',
     content: `
       <h2>10 Core Benefits of Practical STEM Learning</h2>
       <ol>

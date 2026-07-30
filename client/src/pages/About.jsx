@@ -40,7 +40,7 @@ export default function About() {
               <h3 style={{ marginBottom: '1rem' }}>Core Leadership</h3>
               <div style={{ marginBottom: '1.5rem' }}>
                 <h4 style={{ color: 'var(--primary)' }}>Rashmi Kansal</h4>
-                <p style={{ fontWeight: 600, fontSize: '0.9rem', color: 'var(--text)' }}>Founder & Lead Educator</p>
+                <p style={{ fontWeight: 600, fontSize: '0.9rem', color: 'var(--text)' }}>Lead Educator</p>
                 <p style={{ color: 'var(--text-dim)', fontSize: '0.85rem', marginTop: '0.3rem' }}>15+ years experience in Computer Science, STEM, and Psychology. M.Ed, M.Sc.</p>
               </div>
               <div>
