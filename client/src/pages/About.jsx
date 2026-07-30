@@ -30,7 +30,7 @@ export default function About() {
               <span className="label" style={{ color: 'var(--primary)', fontWeight: 700 }}>OUR STORY & VISION</span>
               <h2 style={{ marginTop: '0.5rem', marginBottom: '1.5rem' }}>Transforming Businesses & Inspiring Young Minds</h2>
               <p style={{ color: 'var(--text-dim)', lineHeight: 1.8, marginBottom: '1rem' }}>
-                Technula (formerly RoboAIPaths) was founded on the belief that cutting-edge software engineering and early-stage technological education are two sides of the same coin. <strong>RoboAIPaths is now Technula — same team, same vision, a new name for a bigger future and new innovations.</strong>
+                Technula (formerly RoboAIAPaths) was founded on the belief that cutting-edge software engineering and early-stage technological education are two sides of the same coin. <strong>RoboAIAPaths is now Technula — same team, same vision, a new name for a bigger future and new innovations.</strong>
               </p>
               <p style={{ color: 'var(--text-dim)', lineHeight: 1.8 }}>
                 Our SaaS Division engineers high-performance web products, field automation tools, and tax compliance portals for enterprises across India. Simultaneously, our STEM Academy Division provides school students from Nursery to 8th class with hands-on robotics, AI learning, and coding skills through physical kit building and guided mentorship.
