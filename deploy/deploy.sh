@@ -20,13 +20,13 @@ git pull origin main
 # 2. Build Client Frontend
 echo "⚡ Building Client Frontend..."
 cd "$APP_DIR/client"
-npm ci
+npm install
 npm run build
 
 # 3. Install & Update Backend Dependencies
 echo "🔧 Setting up Backend..."
 cd "$APP_DIR/server"
-npm ci
+npm install
 
 # 4. Reload PM2 Process Manager (Port 5005)
 echo "🔄 Reloading PM2 Backend Server..."
