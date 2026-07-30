@@ -1,0 +1,16 @@
+# Technula Robots.txt
+# https://technula.com
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /academy/checkout
+Disallow: /academy/cart
+
+# Sitemap
+Sitemap: https://technula.com/sitemap.xml
+
+# Googlebot specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1

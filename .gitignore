@@ -1,0 +1,37 @@
+# =========================================================
+# Technula Site - Git Ignore Configuration
+# =========================================================
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment Variables (Secrets & API Keys)
+.env
+.env.local
+.env.production
+.env.development
+*.env
+
+# Build outputs
+dist/
+build/
+**/dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS & Editor Metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Temporary Files
+tmp/
+*.tmp
